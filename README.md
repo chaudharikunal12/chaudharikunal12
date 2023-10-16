@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharikunal12&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharikunal12" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **React js**
 
-- 🌱 I’m currently learning **DevOps , React**
+- 🌱 I’m currently learning **DevOps , React,  MERN**
 
 - 💻 Python, Java, SQL, Javascript
 
-- 💬 Ask me about **Cloud Computing , Azure , Django**
+- 💬 Ask me about **Cloud Computing , Azure , Git**
 
 - 📫 How to reach me **chaudharikunal12@gmail.com**
 
